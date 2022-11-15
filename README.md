@@ -21,3 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=A-Asror&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div id="header">
+  <img src="https://media1.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif?cid=82a1493b0arwe0zksud0qqiunlg8ijkku4o6w1ivym2w6dhf&rid=giphy.gif&ct=g" width="200"/>
+</div>

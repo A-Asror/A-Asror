@@ -15,12 +15,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-Asror&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=A-Asror&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif?cid=82a1493b0arwe0zksud0qqiunlg8ijkku4o6w1ivym2w6dhf&rid=giphy.gif&ct=g" width="400"/>
 </div>

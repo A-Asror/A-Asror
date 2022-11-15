@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif?cid=82a1493b0arwe0zksud0qqiunlg8ijkku4o6w1ivym2w6dhf&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media1.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif?cid=82a1493b0arwe0zksud0qqiunlg8ijkku4o6w1ivym2w6dhf&rid=giphy.gif&ct=g" width="400"/>
 </div>
 # 💫 About Me:
 🔭 I’m currently working on StartUp Student Platform<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact

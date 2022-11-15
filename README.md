@@ -23,5 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif?cid=82a1493b0arwe0zksud0qqiunlg8ijkku4o6w1ivym2w6dhf&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media1.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif?cid=82a1493b0arwe0zksud0qqiunlg8ijkku4o6w1ivym2w6dhf&rid=giphy.gif&ct=g" width="200"/>
 </div>
